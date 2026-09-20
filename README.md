@@ -52,7 +52,7 @@ My core is **Java / Spring Boot** on the backend, **Angular** on the frontend, w
 | Project | What it is | Stack | Link |
 |---|---|---|---|
 | **Visite Technique Maroc** | Multi-center SaaS for vehicle technical inspection: client space, admin space (visits / HR), super-admin space (centers & subscriptions). Live in production. | Spring Boot, MySQL, Docker, GitHub Actions, OVH VPS | [Live](https://visitetechniquemaroc.com) |
-| **SmartFit AI** | AI sports coaching with real-time posture analysis (YOLOv8, MediaPipe, LSTM). Core API + AI microservice, JWT-secured, deployed on AWS EC2. Built with a team of 3 (Scrum / Jira). | Spring Boot, FastAPI, MySQL, Docker, AWS EC2 | [Repo](https://github.com/soufianebenseddiq/REPO-NAME) |
+| **SmartFit AI** | AI sports coaching with real-time posture analysis (YOLOv8, MediaPipe, LSTM). Core API + AI microservice, JWT-secured, deployed on AWS EC2. Built with a team of 3 (Scrum / Jira). | Spring Boot, FastAPI, MySQL, Docker, AWS EC2 |  |
 
 ### Earlier Projects
 
